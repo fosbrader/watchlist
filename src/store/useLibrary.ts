@@ -37,6 +37,7 @@ type LibraryState = {
   setNotes: (id: string, notes: string) => void
   setCustomPoster: (id: string, poster: string) => void
   setCustomSynopsis: (id: string, synopsis: string) => void
+  updateMovie: (id: string, updates: Partial<Movie>) => void
   resetState: () => void
   exportAll: (filteredOnly?: boolean) => LibraryExport
   importData: (payload: LibraryExport) => void
@@ -100,6 +101,7 @@ export const useLibrary = create<LibraryState>((set, get) => {
     setNotes: (id, notes) => sync(movies => movies.map(m => (m.id === id ? { ...m, notes } : m))),
     setCustomPoster: (id, poster) => sync(movies => movies.map(m => (m.id === id ? { ...m, customPosterOverride: poster } : m))),
     setCustomSynopsis: (id, synopsis) => sync(movies => movies.map(m => (m.id === id ? { ...m, customSynopsisOverride: synopsis } : m))),
+    updateMovie: (id, updates) => sync(movies => movies.map(m => (m.id === id ? { ...m, ...updates } : m))),
     resetState: () => {
       clearState()
       set({ movies: mergeMovies(movieData, {}), filters: baseFilter })
