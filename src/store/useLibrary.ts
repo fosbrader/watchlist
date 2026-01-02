@@ -1,11 +1,17 @@
 import { create } from 'zustand'
 import Fuse from 'fuse.js'
 import seedData from '../data/seed.movies.json'
+import enrichedData from '../data/enriched.movies.json'
 import { loadState, saveState, clearState, loadEnrichment, saveEnrichment, loadSettings, saveSettings } from '../utils/storage'
 import type { FilterState, LibraryExport, Movie, MovieSeed, MovieUserState } from '../types'
 
-const MIN_YEAR = Math.min(...seedData.map(m => m.year))
-const MAX_YEAR = Math.max(...seedData.map(m => m.year))
+// Use enriched data if available, otherwise fall back to seed data
+const movieData: MovieSeed[] = (enrichedData as MovieSeed[]).length > 0 
+  ? (enrichedData as MovieSeed[]) 
+  : (seedData as MovieSeed[])
+
+const MIN_YEAR = Math.min(...movieData.map(m => m.year))
+const MAX_YEAR = Math.max(...movieData.map(m => m.year))
 
 const baseFilter: FilterState = {
   search: '',
@@ -15,7 +21,7 @@ const baseFilter: FilterState = {
   withPosterOnly: false,
   withReviewOnly: false,
   yearRange: [MIN_YEAR, MAX_YEAR],
-  view: 'grid',
+  view: 'list',
   sort: 'recentAdded'
 }
 
@@ -58,7 +64,7 @@ const persistMovies = (movies: Movie[]) => {
 
 export const useLibrary = create<LibraryState>((set, get) => {
   const stored = loadState()?.movies || {}
-  const movies = mergeMovies(seedData as MovieSeed[], stored)
+  const movies = mergeMovies(movieData, stored)
   const enrichmentCache = loadEnrichment()
   const settings = loadSettings()
 
@@ -96,7 +102,7 @@ export const useLibrary = create<LibraryState>((set, get) => {
     setCustomSynopsis: (id, synopsis) => sync(movies => movies.map(m => (m.id === id ? { ...m, customSynopsisOverride: synopsis } : m))),
     resetState: () => {
       clearState()
-      set({ movies: mergeMovies(seedData as MovieSeed[], {}), filters: baseFilter })
+      set({ movies: mergeMovies(movieData, {}), filters: baseFilter })
     },
     exportAll: (filteredOnly) => {
       const state = get()
@@ -126,7 +132,7 @@ export const useLibrary = create<LibraryState>((set, get) => {
             }
           }
         })
-        const merged = mergeMovies(seedData as MovieSeed[], incoming)
+        const merged = mergeMovies(movieData, incoming)
         persistMovies(merged)
         return { ...state, movies: merged }
       })
@@ -173,6 +179,8 @@ export const useFilteredMovies = () => {
         return (b.myRating || 0) - (a.myRating || 0)
       case 'externalRating':
         return (b.externalRating || 0) - (a.externalRating || 0)
+      case 'imdbRating':
+        return (b.imdbRating || 0) - (a.imdbRating || 0)
       case 'recentWatched':
         return new Date(b.dateWatched || 0).getTime() - new Date(a.dateWatched || 0).getTime()
       case 'recentAdded':

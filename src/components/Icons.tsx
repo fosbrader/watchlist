@@ -28,3 +28,7 @@ export const Refresh = create(<path d="M4 4v6h6M20 20v-6h-6M5 19a7 7 0 0 0 11-2M
 export const Adjust = create(<path d="M4 7h16M4 12h10M4 17h7" />)
 export const Star = create(<path d="m12 3.5 2.5 5 5.5.8-4 4 1 5.7-5-2.7-5 2.7 1-5.7-4-4 5.5-.8Z" />)
 export const ArrowPathRight = create(<path d="M13 5h6v6m-1.5-4.5-5 5M11 19H5v-6m1.5 4.5 5-5" />)
+export const Home = create(<path d="M3 12l9-9 9 9M5 10v10a1 1 0 001 1h3a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1h3a1 1 0 001-1V10" />)
+export const ArrowLeft = create(<path d="M19 12H5m0 0l7 7m-7-7l7-7" />)
+export const Play = create(<path d="M5 3l14 9-14 9V3z" />)
+export const Trophy = create(<path d="M6 9H4.5a2.5 2.5 0 010-5H6m12 5h1.5a2.5 2.5 0 000-5H18M6 9h12M6 9v5a6 6 0 0012 0V9M9 21h6m-3-3v3" />)

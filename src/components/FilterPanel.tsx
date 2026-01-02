@@ -130,6 +130,7 @@ export default function FilterPanel({ total, minYear, maxYear }: { total: number
               <option value="title">Title</option>
               <option value="year">Year</option>
               <option value="myRating">My rating</option>
+              <option value="imdbRating">IMDb rating</option>
               <option value="externalRating">External rating</option>
             </select>
           </div>

@@ -1,0 +1,55 @@
+import type { Movie } from '../../types'
+
+export const mockMovies: Movie[] = [
+  {
+    id: 'test-movie-1',
+    title: 'Test Thriller',
+    year: 2023,
+    genres: ['Thriller', 'Horror'],
+    watched: false,
+    poster: 'https://example.com/poster1.jpg',
+    runtime: '120 min',
+    director: 'Test Director',
+    cast: ['Actor One', 'Actor Two'],
+    synopsis: 'A gripping test movie about testing.',
+    addedAt: '2023-01-01T00:00:00Z',
+    imdbRating: 8.5,
+    rated: 'R',
+    awards: 'Nominated for 2 Oscars',
+  },
+  {
+    id: 'test-movie-2',
+    title: 'Another Test Film',
+    year: 2022,
+    genres: ['Mystery', 'Thriller'],
+    watched: true,
+    watchedAt: '2023-06-15T00:00:00Z',
+    poster: 'https://example.com/poster2.jpg',
+    runtime: '95 min',
+    director: 'Another Director',
+    synopsis: 'A mysterious test film.',
+    addedAt: '2023-02-01T00:00:00Z',
+    favorite: true,
+    myRating: 9,
+    imdbRating: 7.2,
+  },
+  {
+    id: 'test-movie-3',
+    title: 'Unwatched Classic',
+    year: 1999,
+    genres: ['Crime', 'Thriller'],
+    watched: false,
+    runtime: '150 min',
+    addedAt: '2023-03-01T00:00:00Z',
+    imdbRating: 9.0,
+  },
+]
+
+export const emptyMovie: Movie = {
+  id: 'empty-movie',
+  title: 'Empty Movie',
+  year: 2024,
+  genres: [],
+  watched: false,
+  addedAt: '2024-01-01T00:00:00Z',
+}

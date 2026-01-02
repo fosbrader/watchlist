@@ -22,6 +22,22 @@ export type MovieSeed = {
   addedAt?: string
   watchedAt?: string
   externalRating?: number
+  
+  // OMDb enrichment fields
+  rated?: string
+  awards?: string
+  boxOffice?: string
+  language?: string
+  country?: string
+  imdbRating?: number
+  imdbVotes?: string
+  metascore?: number
+  enrichedAt?: string | null
+  
+  // TMDB placeholders for future integration
+  tmdbId?: string
+  tmdbPosterPath?: string
+  trailerUrl?: string
 }
 
 export type MovieUserState = {
@@ -49,7 +65,7 @@ export type FilterState = {
   withReviewOnly: boolean
   yearRange: [number, number]
   view: 'grid' | 'list'
-  sort: 'title' | 'year' | 'myRating' | 'externalRating' | 'recentAdded' | 'recentWatched'
+  sort: 'title' | 'year' | 'myRating' | 'externalRating' | 'imdbRating' | 'recentAdded' | 'recentWatched'
 }
 
 export type LibraryExport = {

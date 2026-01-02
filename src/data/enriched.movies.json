@@ -1,0 +1,1369 @@
+[
+  {
+    "id": "dangerous-animals-2005",
+    "title": "Dangerous Animals",
+    "year": 2005,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "watched": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjA2ZDM0OTEtZDJjYy00OGM0LWE5YzQtZDY4ODkxZmQ3YjM4XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "98 min",
+    "director": "Maeve Leto",
+    "cast": [
+      "Alyssa Ward",
+      "Gina Raleigh"
+    ],
+    "synopsis": "A wildlife crew becomes the prey when their isolated shoot uncovers something feral.",
+    "addedAt": "2023-01-10T12:00:00Z",
+    "enrichedAt": null
+  },
+  {
+    "id": "keeper-2023",
+    "title": "Keeper",
+    "year": 2023,
+    "genres": [
+      "Psychological Thriller"
+    ],
+    "watched": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMTIxMjItYTRhZS00YjY1LTg1OTktOWYwNzljYTA4NzJjXkEyXkFqcGdeQXVyMTUyNDgzNzc1._V1_SX300.jpg",
+    "runtime": "17 min",
+    "director": "Alex Engel",
+    "cast": [
+      "Cole Goodman",
+      "Mike Gromer",
+      "Tyler Knoll"
+    ],
+    "synopsis": "In desperation, ne'er do well Paul accepts a job house sitting to make ends meet. What seemed to be a simple job at first, quickly gets complicated by his acceptance to become caretaker for an invalid telepathic man.",
+    "addedAt": "2023-01-15T12:00:00Z",
+    "awards": "1 win",
+    "language": "English",
+    "country": "Canada",
+    "externalId": "tt26626132",
+    "reviews": [],
+    "enrichedAt": "2026-01-02T17:22:49.911Z"
+  },
+  {
+    "id": "killing-of-a-sacred-deer-2017",
+    "title": "The Killing of a Sacred Deer",
+    "year": 2017,
+    "genres": [
+      "Psychological Thriller",
+      "Horror"
+    ],
+    "watched": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjU4NDcwOTA2NF5BMl5BanBnXkFtZTgwMjE2OTg4MzI@._V1_SX300.jpg",
+    "runtime": "121 min",
+    "director": "Yorgos Lanthimos",
+    "cast": [
+      "Barry G. Bernson",
+      "Herb Caillouet",
+      "Bill Camp"
+    ],
+    "synopsis": "After the untimely death of 16-year-old Martin's father on the operating table, little by little, a deep and empathetic bond begins to form between him and the respected cardiothoracic surgeon, Dr Steven Murphy. At first, expensive gifts and then an invitation for dinner will soon earn the orphaned teenager the approval of Dr Steven's perfect family, even though right from the start, a vague, yet unnerving feeling overshadows Martin's honest intent. And then, unexpectedly, the idyllic family is smote by a fierce and pitiless punishment, while at the same time, everything will start falling apart as the innocents have to suffer. In the end, as the sins of one burden the entire family, only an unimaginable and unendurable decision that demands a pure sacrifice can purge the soul. But to find catharsis, one must first admit the sin.",
+    "externalId": "tt5715874",
+    "addedAt": "2023-02-02T12:00:00Z",
+    "rated": "R",
+    "awards": "7 wins & 53 nominations total",
+    "boxOffice": "$2,291,901",
+    "language": "English, French",
+    "country": "Ireland, United Kingdom, United States",
+    "imdbRating": 7,
+    "imdbVotes": "207,548",
+    "metascore": 73,
+    "reviews": [
+      {
+        "source": "Internet Movie Database",
+        "ratingValue": 7,
+        "ratingScale": 10
+      },
+      {
+        "source": "Rotten Tomatoes",
+        "ratingValue": 79,
+        "ratingScale": 100
+      },
+      {
+        "source": "Metacritic",
+        "ratingValue": 73,
+        "ratingScale": 100
+      }
+    ],
+    "enrichedAt": "2026-01-02T17:22:50.210Z"
+  },
+  {
+    "id": "dead-of-winter-1987",
+    "title": "Dead of Winter",
+    "year": 1987,
+    "genres": [
+      "Thriller",
+      "Suspense"
+    ],
+    "watched": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmJhNjk3NzktOWQ4Zi00NjEzLWExM2UtZmUxNjExNGEwYmNmXkEyXkFqcGc@._V1_SX300.jpg",
+    "runtime": "100 min",
+    "director": "Arthur Penn",
+    "synopsis": "Katie McGovern is a struggling actress living with her husband and her student brother, who is visiting. She attends an audition that she found in the paper and is selected to shoot a short video which will be sent to the director for his approval. Mr. Murray, the man holding the audition, picks Katie up and takes her to a remote mansion where they shoot the video. Katie is selected to replace the previous lead in the film who looks remarkably like her. Soon, however, things begin to look as if they are not what they seem. Katie soon realizes she is in danger and attempts escape.",
+    "addedAt": "2023-02-10T12:00:00Z",
+    "cast": [
+      "Mary Steenburgen",
+      "Roddy McDowall",
+      "Jan Rubes"
+    ],
+    "rated": "R",
+    "awards": "1 nomination total",
+    "boxOffice": "$2,413,427",
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 6.2,
+    "imdbVotes": "4,967",
+    "metascore": 55,
+    "externalId": "tt0092842",
+    "reviews": [
+      {
+        "source": "Internet Movie Database",
+        "ratingValue": 6.2,
+        "ratingScale": 10
+      },
+      {
+        "source": "Rotten Tomatoes",
+        "ratingValue": 77,
+        "ratingScale": 100
+      },
+      {
+        "source": "Metacritic",
+        "ratingValue": 55,
+        "ratingScale": 100
+      }
+    ],
+    "enrichedAt": "2026-01-02T17:22:50.507Z"
+  },
+  {
+    "id": "locked-2010",
+    "title": "Locked",
+    "year": 2010,
+    "genres": [
+      "Thriller"
+    ],
+    "watched": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY4Njc2Njg1Nl5BMl5BanBnXkFtZTgwMDU5NTI0MjE@._V1_.jpg",
+    "runtime": "10 min",
+    "director": "Nikita Ovsyannikov",
+    "synopsis": "A car thief wakes up, after a night out, in a car he stole. He is tied up and locked in the car. He can't even imagine how big of a surprise is waiting for him, because every car has an owner.",
+    "addedAt": "2023-02-18T12:00:00Z",
+    "cast": [
+      "Oleg Maltsev"
+    ],
+    "language": "Russian",
+    "country": "Russia",
+    "externalId": "tt2145787",
+    "reviews": [],
+    "enrichedAt": "2026-01-02T17:22:50.806Z"
+  },
+  {
+    "id": "if-i-had-legs-id-kick-you-2022",
+    "title": "If I Had Legs I'd Kick You",
+    "year": 2022,
+    "genres": [
+      "Psychological Thriller"
+    ],
+    "watched": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjZiOTBlZjQtNmU2YS00ZTM4LTk1MWItYzA2MDZkMTY4NTQ4XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "112 min",
+    "director": "Samira Holt",
+    "synopsis": "A man recording motivational tapes spirals into paranoia when he hears another voice.",
+    "addedAt": "2023-03-01T12:00:00Z",
+    "enrichedAt": null
+  },
+  {
+    "id": "curve-2015",
+    "title": "Curve",
+    "year": 2015,
+    "genres": [
+      "Survival Thriller"
+    ],
+    "watched": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDJhOTYyODQtZjBkMS00ODM4LWJmN2QtYmJhOTA2M2QyYWNmXkEyXkFqcGc@._V1_SX300.jpg",
+    "runtime": "85 min",
+    "director": "Iain Softley",
+    "synopsis": "Mallory Rutledge is driving her fiancé's truck to Denver to meet him and get married. While driving in the lonely road, she talks to her sister Ella and decides to take a detour to visit the Grand Canyon. Out of the blue, the truck stops and Mallory can get no service in her cell phone. However the gentle drifter Christian Laughton offers to fix the car and Mallory accepts. Then she offers a ride to him and when she is driving, he says pornography to her. She asks him to leave but he shows a knife and tells her to go to a derelict motel. Mallory sees that the psychopath Christian is not wearing the seat bell and decides to throw the truck off the road in a curve. But the leg of Mallory is trapped in the overturned car and Christian leaves her without any help, in the beginning of Mallory's worst nightmare. Will she escape from the vehicle and from the psychopath?",
+    "addedAt": "2023-03-10T12:00:00Z",
+    "cast": [
+      "Julianne Hough",
+      "Teddy Sears",
+      "Penelope Mitchell"
+    ],
+    "rated": "R",
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 5.4,
+    "imdbVotes": "13,579",
+    "externalId": "tt3212904",
+    "reviews": [
+      {
+        "source": "Internet Movie Database",
+        "ratingValue": 5.4,
+        "ratingScale": 10
+      },
+      {
+        "source": "Rotten Tomatoes",
+        "ratingValue": 26,
+        "ratingScale": 100
+      }
+    ],
+    "enrichedAt": "2026-01-02T17:22:51.401Z"
+  },
+  {
+    "id": "woman-in-cabin-10-2024",
+    "title": "The Woman in Cabin 10",
+    "year": 2024,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "watched": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODQ5ZGM5MTItODdlYS00ZGM3LWI3MDEtNjk3NzA2MWRiOGZjXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "109 min",
+    "director": "Talya Smith",
+    "synopsis": "A travel journalist witnesses a crime aboard a luxury ship no one else remembers.",
+    "addedAt": "2023-03-15T12:00:00Z",
+    "enrichedAt": null
+  },
+  {
+    "id": "girl-in-the-basement-2021",
+    "title": "Girl in the Basement",
+    "year": 2021,
+    "genres": [
+      "Thriller",
+      "Crime"
+    ],
+    "watched": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2RiMjg4YTAtYzdkNy00MGRhLTlhYzAtZTY1MTJkODQ1ZTg1XkEyXkFqcGc@._V1_SX300.jpg",
+    "runtime": "88 min",
+    "director": "Elisabeth Röhm",
+    "synopsis": "The horrific story of Sarah, a vibrant teen girl who was looking forward to her 18th birthday so she could move away from her controlling father, Don. Her world becomes extremely dark when her father imprisons her in the basement of their home.",
+    "addedAt": "2023-03-20T12:00:00Z",
+    "cast": [
+      "Judd Nelson",
+      "Stefanie Scott",
+      "Joely Fisher"
+    ],
+    "rated": "TV-14",
+    "awards": "1 nomination total",
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 6.3,
+    "imdbVotes": "17,040",
+    "externalId": "tt13269536",
+    "reviews": [
+      {
+        "source": "Internet Movie Database",
+        "ratingValue": 6.3,
+        "ratingScale": 10
+      }
+    ],
+    "enrichedAt": "2026-01-02T17:22:51.995Z"
+  },
+  {
+    "id": "prisoners-2013",
+    "title": "Prisoners",
+    "year": 2013,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "watched": false,
+    "runtime": "153 min",
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Hugh Jackman",
+      "Jake Gyllenhaal",
+      "Viola Davis"
+    ],
+    "synopsis": "How far would you go to protect your family? Keller Dover is facing every parent's worst nightmare. His six-year-old daughter, Anna, is missing, together with her young friend, Joy, and as minutes turn to hours, panic sets in. The only lead is a dilapidated RV that had earlier been parked on their street. Heading the investigation, Detective Loki arrests its driver, Alex Jones, but a lack of evidence forces his release. As the police pursue multiple leads and pressure mounts, knowing his child's life is at stake the frantic Dover decides he has no choice but to take matters into his own hands. But just how far will this desperate father go to protect his family?",
+    "externalId": "tt1392214",
+    "addedAt": "2023-04-01T12:00:00Z",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_SX300.jpg",
+    "rated": "R",
+    "awards": "Nominated for 1 Oscar. 10 wins & 38 nominations total",
+    "boxOffice": "$61,002,302",
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 8.2,
+    "imdbVotes": "899,466",
+    "metascore": 70,
+    "reviews": [
+      {
+        "source": "Internet Movie Database",
+        "ratingValue": 8.2,
+        "ratingScale": 10
+      },
+      {
+        "source": "Rotten Tomatoes",
+        "ratingValue": 81,
+        "ratingScale": 100
+      },
+      {
+        "source": "Metacritic",
+        "ratingValue": 70,
+        "ratingScale": 100
+      }
+    ],
+    "enrichedAt": "2026-01-02T17:22:52.286Z"
+  },
+  {
+    "id": "taken-2008",
+    "title": "Taken",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "watched": false,
+    "runtime": "90 min",
+    "director": "Pierre Morel",
+    "synopsis": "Seventeen year-old Kim is the pride and joy of her father Bryan Mills. Bryan is a retired agent who left the Central Intelligence Agency to be near Kim in California. Kim lives with her mother Lenore and her wealthy stepfather Stuart. Kim manages to convince her reluctant father to allow her to travel to Paris with her friend Amanda. When the girls arrive in Paris they share a cab with a stranger named Peter, and Amanda lets it slip that they are alone in Paris. Using this information an Albanian gang of human traffickers kidnaps the girls. Kim barely has time to call her father and give him information. Her father gets to speak briefly to one of the kidnappers and he promises to kill the kidnappers if they do not let his daughter go free. The kidnapper wishes him \"good luck,\" so Bryan Mills travels to Paris to search for his daughter and her friend.",
+    "addedAt": "2023-04-02T12:00:00Z",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTAxNTY2NjMtYjk5Yy00Nzg4LTkyMmItYmMzMDM2OWQ1ZGQ3XkEyXkFqcGc@._V1_SX300.jpg",
+    "cast": [
+      "Liam Neeson",
+      "Maggie Grace",
+      "Famke Janssen"
+    ],
+    "rated": "PG-13",
+    "awards": "2 wins & 2 nominations total",
+    "boxOffice": "$145,000,989",
+    "language": "English, French, Albanian, Arabic, Serbian",
+    "country": "France, United Kingdom, United States",
+    "imdbRating": 7.7,
+    "imdbVotes": "661,427",
+    "metascore": 51,
+    "externalId": "tt0936501",
+    "reviews": [
+      {
+        "source": "Internet Movie Database",
+        "ratingValue": 7.7,
+        "ratingScale": 10
+      },
+      {
+        "source": "Rotten Tomatoes",
+        "ratingValue": 60,
+        "ratingScale": 100
+      },
+      {
+        "source": "Metacritic",
+        "ratingValue": 51,
+        "ratingScale": 100
+      }
+    ],
+    "enrichedAt": "2026-01-02T17:22:52.585Z"
+  },
+  {
+    "id": "man-on-fire-2004",
+    "title": "Man on Fire",
+    "year": 2004,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "watched": false,
+    "runtime": "146 min",
+    "director": "Tony Scott",
+    "addedAt": "2023-04-03T12:00:00Z",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGMzNjg3ZDgtOGNlNy00NTdjLWI2NDEtMjI1MmEwMTBmMjMxXkEyXkFqcGc@._V1_SX300.jpg",
+    "synopsis": "Hard-drinking, burnt-out ex-CIA operative John Creasy has given up on life until he's hired as a bodyguard to protect 9-year-old Pita Ramos. Bit by bit, Creasy begins to reclaim some of his soul, but when Pita is kidnapped, Creasy's fiery rage is finally released and he will stop at nothing to save her as he sets out on a dangerous, revenge-fueled rescue mission.",
+    "cast": [
+      "Denzel Washington",
+      "Christopher Walken",
+      "Dakota Fanning"
+    ],
+    "rated": "R",
+    "awards": "1 win & 7 nominations total",
+    "boxOffice": "$77,911,774",
+    "language": "English, Spanish",
+    "country": "Switzerland, United Kingdom, United States, Mexico",
+    "imdbRating": 7.7,
+    "imdbVotes": "413,069",
+    "metascore": 47,
+    "externalId": "tt0328107",
+    "reviews": [
+      {
+        "source": "Internet Movie Database",
+        "ratingValue": 7.7,
+        "ratingScale": 10
+      },
+      {
+        "source": "Rotten Tomatoes",
+        "ratingValue": 39,
+        "ratingScale": 100
+      },
+      {
+        "source": "Metacritic",
+        "ratingValue": 47,
+        "ratingScale": 100
+      }
+    ],
+    "enrichedAt": "2026-01-02T17:22:52.884Z"
+  },
+  {
+    "id": "flightplan-2005",
+    "title": "Flightplan",
+    "year": 2005,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "watched": false,
+    "runtime": "98 min",
+    "director": "Robert Schwentke",
+    "addedAt": "2023-04-04T12:00:00Z",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGQyZmQ1OGItYWNkNi00YzU4LWJmZjktNTQyZjNlOGNmNWJlXkEyXkFqcGc@._V1_SX300.jpg",
+    "synopsis": "The husband of aviation engineer Kyle Pratt has just died in Berlin, and now she is flying back to New York with his coffin and their six-year-old daughter Julia. Three hours into the flight Kyle awakens to find that Julia is gone. It's a big double-decker plane, so the very concerned mother has a lot of territory to cover in order to find her daughter. She takes matters into her own hands as she fights to discern the truth.",
+    "cast": [
+      "Jodie Foster",
+      "Peter Sarsgaard",
+      "Sean Bean"
+    ],
+    "rated": "PG-13",
+    "awards": "2 wins & 6 nominations total",
+    "boxOffice": "$89,707,299",
+    "language": "English, French, German, Arabic, Italian, Japanese",
+    "country": "United States",
+    "imdbRating": 6.3,
+    "imdbVotes": "176,590",
+    "metascore": 53,
+    "externalId": "tt0408790",
+    "reviews": [
+      {
+        "source": "Internet Movie Database",
+        "ratingValue": 6.3,
+        "ratingScale": 10
+      },
+      {
+        "source": "Rotten Tomatoes",
+        "ratingValue": 36,
+        "ratingScale": 100
+      },
+      {
+        "source": "Metacritic",
+        "ratingValue": 53,
+        "ratingScale": 100
+      }
+    ],
+    "enrichedAt": "2026-01-02T17:22:53.178Z"
+  },
+  {
+    "id": "amber-alert-2024",
+    "title": "Amber Alert",
+    "year": 2024,
+    "genres": [
+      "Thriller"
+    ],
+    "watched": false,
+    "runtime": "90 min",
+    "director": "Kerry Bellessa",
+    "addedAt": "2023-04-05T12:00:00Z",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjVkYjgyNWItYmRlZC00MjQ1LTljMTktMWQzNTI1YWM4ZGI5XkEyXkFqcGc@._V1_SX300.jpg",
+    "synopsis": "A ride-share turns into a high-stakes game of cat and mouse after it follows a car fitting the description of an AMBER ALERT.",
+    "cast": [
+      "Hayden Panettiere",
+      "Tyler James Williams",
+      "Kevin Dunn"
+    ],
+    "rated": "PG-13",
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 6.1,
+    "imdbVotes": "6,442",
+    "externalId": "tt31450182",
+    "reviews": [
+      {
+        "source": "Internet Movie Database",
+        "ratingValue": 6.1,
+        "ratingScale": 10
+      },
+      {
+        "source": "Rotten Tomatoes",
+        "ratingValue": 63,
+        "ratingScale": 100
+      }
+    ],
+    "enrichedAt": "2026-01-02T17:22:53.473Z"
+  },
+  {
+    "id": "dukot-2009",
+    "title": "Dukot",
+    "year": 2009,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "watched": false,
+    "runtime": "95 min",
+    "director": "Joel Lamangan",
+    "addedAt": "2023-04-06T12:00:00Z",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjUyNDAyYmEtOWEzNy00YjQwLTg4ZDQtOTEwNDQ4MzE3YWQ0XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_SX300.jpg",
+    "synopsis": "When activists Junix Etrata and Maricel Salvacruz (Allen Dizon and Iza Calzado) go missing, their parents contact a human-rights group to help them locate their missing children.",
+    "cast": [
+      "Allen Dizon",
+      "Iza Calzado",
+      "Snooky Serna"
+    ],
+    "awards": "8 wins & 29 nominations",
+    "language": "Filipino, Tagalog",
+    "country": "Philippines",
+    "imdbRating": 9,
+    "imdbVotes": "12",
+    "externalId": "tt1433772",
+    "reviews": [
+      {
+        "source": "Internet Movie Database",
+        "ratingValue": 9,
+        "ratingScale": 10
+      }
+    ],
+    "enrichedAt": "2026-01-02T17:22:53.769Z"
+  },
+  {
+    "id": "boy-behind-the-door-2020",
+    "title": "The Boy Behind the Door",
+    "year": 2020,
+    "genres": [
+      "Thriller",
+      "Horror"
+    ],
+    "watched": false,
+    "runtime": "88 min",
+    "director": "David Charbonier, Justin Douglas Powell",
+    "addedAt": "2023-04-07T12:00:00Z",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmI2YjliOTMtMjYwOS00YTdiLTk5NjktZjhmZjAxMTQxYjlmXkEyXkFqcGc@._V1_SX300.jpg",
+    "synopsis": "After Bobby and his best friend Kevin are kidnapped and taken to a strange house in the middle of nowhere, Bobby manages to escape. But as he starts to make a break for it, he hears Kevin's screams for help and realizes he can't leave his friend behind.",
+    "cast": [
+      "Lonnie Chavis",
+      "Ezra Dewey",
+      "Kristin Bauer"
+    ],
+    "awards": "2 wins & 2 nominations total",
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 5.7,
+    "imdbVotes": "6,294",
+    "metascore": 65,
+    "externalId": "tt10772662",
+    "reviews": [
+      {
+        "source": "Internet Movie Database",
+        "ratingValue": 5.7,
+        "ratingScale": 10
+      },
+      {
+        "source": "Rotten Tomatoes",
+        "ratingValue": 97,
+        "ratingScale": 100
+      },
+      {
+        "source": "Metacritic",
+        "ratingValue": 65,
+        "ratingScale": 100
+      }
+    ],
+    "enrichedAt": "2026-01-02T17:22:54.069Z"
+  },
+  {
+    "id": "split-2016",
+    "title": "Split",
+    "year": 2016,
+    "genres": [
+      "Psychological Thriller",
+      "Horror"
+    ],
+    "watched": false,
+    "runtime": "117 min",
+    "director": "M. Night Shyamalan",
+    "addedAt": "2023-04-08T12:00:00Z",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTZjNmVjMzAtZjg2Mi00MWNmLTk5NTItOTExZDYwNTE2YmExXkEyXkFqcGc@._V1_SX300.jpg",
+    "synopsis": "Though Kevin (James McAvoy) has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher (Betty Buckley), there remains one still submerged who is set to materialize and dominate all of the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within him -- as well as everyone around him -- as the walls between his compartments shatter.",
+    "cast": [
+      "James McAvoy",
+      "Anya Taylor-Joy",
+      "Haley Lu Richardson"
+    ],
+    "rated": "PG-13",
+    "awards": "10 wins & 27 nominations total",
+    "boxOffice": "$138,291,365",
+    "language": "English",
+    "country": "United States, Japan",
+    "imdbRating": 7.3,
+    "imdbVotes": "608,825",
+    "metascore": 63,
+    "externalId": "tt4972582",
+    "reviews": [
+      {
+        "source": "Internet Movie Database",
+        "ratingValue": 7.3,
+        "ratingScale": 10
+      },
+      {
+        "source": "Rotten Tomatoes",
+        "ratingValue": 79,
+        "ratingScale": 100
+      },
+      {
+        "source": "Metacritic",
+        "ratingValue": 63,
+        "ratingScale": 100
+      }
+    ],
+    "enrichedAt": "2026-01-02T17:22:54.372Z"
+  },
+  {
+    "id": "buried-2010",
+    "title": "Buried",
+    "year": 2010,
+    "genres": [
+      "Survival Thriller"
+    ],
+    "watched": false,
+    "runtime": "95 min",
+    "director": "Rodrigo Cortés",
+    "addedAt": "2023-04-09T12:00:00Z",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGMxNjMyM2QtMjk4Ni00YmJhLTkwYmQtNjUwNjViNzI0ZTE1XkEyXkFqcGc@._V1_SX300.jpg",
+    "synopsis": "Waking groggy in pitch darkness, Paul Conroy, an American truck driver working in Iraq in 2006, slowly realizes he is trapped inside a wooden coffin, buried alive. With his cigarette lighter, he can see the trap he is in, and he quickly realizes that there's not enough air for him to live long. He finds within the coffin a working cellphone, which allows him contact with the outside world. But the outside world proves not to be very helpful at finding a man buried in a box in the middle of the Iraqi desert. Paul must rely on his best resource--himself.",
+    "cast": [
+      "Ryan Reynolds",
+      "José Luis García-Pérez",
+      "Robert Paterson"
+    ],
+    "rated": "R",
+    "awards": "16 wins & 33 nominations total",
+    "boxOffice": "$1,044,143",
+    "language": "English, Arabic",
+    "country": "Spain, United Kingdom, France, United States",
+    "imdbRating": 7,
+    "imdbVotes": "174,660",
+    "metascore": 65,
+    "externalId": "tt1462758",
+    "reviews": [
+      {
+        "source": "Internet Movie Database",
+        "ratingValue": 7,
+        "ratingScale": 10
+      },
+      {
+        "source": "Rotten Tomatoes",
+        "ratingValue": 87,
+        "ratingScale": 100
+      },
+      {
+        "source": "Metacritic",
+        "ratingValue": 65,
+        "ratingScale": 100
+      }
+    ],
+    "enrichedAt": "2026-01-02T17:22:54.668Z"
+  },
+  {
+    "id": "panic-room-2002",
+    "title": "Panic Room",
+    "year": 2002,
+    "genres": [
+      "Thriller"
+    ],
+    "watched": false,
+    "runtime": "112 min",
+    "director": "David Fincher",
+    "addedAt": "2023-04-10T12:00:00Z",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODU0ZGM0MjctM2YxYy00OWY1LTk2N2YtNWE4ZWQ2ODQwMTI5XkEyXkFqcGc@._V1_SX300.jpg",
+    "synopsis": "Recently divorced Meg Altman and her daughter Sarah have bought a new home in New York. On their tour around the mansion, they come across the panic room. A room so secure, that no one can get in. When three burglars break in, Meg makes a move to the panic room. But all her troubles don't stop there. The criminals know where she is, and what they require the most in the house is in that very room.",
+    "cast": [
+      "Jodie Foster",
+      "Kristen Stewart",
+      "Forest Whitaker"
+    ],
+    "rated": "R",
+    "awards": "1 win & 9 nominations total",
+    "boxOffice": "$96,397,334",
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 6.8,
+    "imdbVotes": "310,689",
+    "metascore": 65,
+    "externalId": "tt0258000",
+    "reviews": [
+      {
+        "source": "Internet Movie Database",
+        "ratingValue": 6.8,
+        "ratingScale": 10
+      },
+      {
+        "source": "Rotten Tomatoes",
+        "ratingValue": 76,
+        "ratingScale": 100
+      },
+      {
+        "source": "Metacritic",
+        "ratingValue": 65,
+        "ratingScale": 100
+      }
+    ],
+    "enrichedAt": "2026-01-02T17:22:54.965Z"
+  },
+  {
+    "id": "breakdown-1997",
+    "title": "Breakdown",
+    "year": 1997,
+    "genres": [
+      "Thriller"
+    ],
+    "watched": false,
+    "runtime": "93 min",
+    "director": "Jonathan Mostow",
+    "addedAt": "2023-04-11T12:00:00Z",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjhiODJmOWQtNGYwZi00NjFmLWFiNTMtZjZhNTJiMTJmNjhjXkEyXkFqcGc@._V1_SX300.jpg",
+    "synopsis": "Jeff and Amy Taylor are moving to California and must drive across the country. When they find themselves stranded in the middle of a desert with hardly anyone or anything around, their trip comes to a sudden halt. Amy had taken a ride with a friendly trucker to a small diner to call for help, but after a long time, Jeff becomes worried. He finds that no one in the diner has seen or heard from his wife. When he finds the trucker who gave Amy the ride, the trucker swears he has never seen her. Now Jeff must attempt to find his wife, who has been kidnapped and is being held for ransom. But who can he trust?",
+    "cast": [
+      "Kurt Russell",
+      "J.T. Walsh",
+      "Kathleen Quinlan"
+    ],
+    "rated": "R",
+    "awards": "1 win & 2 nominations total",
+    "boxOffice": "$50,159,144",
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7,
+    "imdbVotes": "66,714",
+    "metascore": 74,
+    "externalId": "tt0118771",
+    "reviews": [
+      {
+        "source": "Internet Movie Database",
+        "ratingValue": 7,
+        "ratingScale": 10
+      },
+      {
+        "source": "Rotten Tomatoes",
+        "ratingValue": 83,
+        "ratingScale": 100
+      },
+      {
+        "source": "Metacritic",
+        "ratingValue": 74,
+        "ratingScale": 100
+      }
+    ],
+    "enrichedAt": "2026-01-02T17:22:55.262Z"
+  },
+  {
+    "id": "silence-of-the-lambs-1991",
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "genres": [
+      "Crime",
+      "Horror"
+    ],
+    "watched": false,
+    "runtime": "118 min",
+    "director": "Jonathan Demme",
+    "addedAt": "2023-04-12T12:00:00Z",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@._V1_SX300.jpg",
+    "synopsis": "F.B.I. trainee Clarice Starling (Jodie Foster) works hard to advance her career, while trying to hide or put behind her West Virginia roots, of which if some knew, would automatically classify her as being backward or white trash. After graduation, she aspires to work in the agency's Behavioral Science Unit under the leadership of Jack Crawford (Scott Glenn). While she is still a trainee, Crawford asks her to question Dr. Hannibal Lecter (Sir Anthony Hopkins), a psychiatrist imprisoned, thus far, for eight years in maximum security isolation for being a serial killer who cannibalized his victims. Clarice is able to figure out the assignment is to pick Lecter's brains to help them solve another serial murder case, that of someone coined by the media as \"Buffalo Bill\" (Ted Levine), who has so far killed five victims, all located in the eastern U.S., all young women, who are slightly overweight (especially around the hips), all who were drowned in natural bodies of water, and all who were stripped of large swaths of skin. She also figures that Crawford chose her, as a woman, to be able to trigger some emotional response from Lecter. After speaking to Lecter for the first time, she realizes that everything with him will be a psychological game, with her often having to read between the very cryptic lines he provides. She has to decide how much she will play along, as his request in return for talking to him is to expose herself emotionally to him. The case takes a more dire turn when a sixth victim is discovered, this one from who they are able to retrieve a key piece of evidence, if Lecter is being forthright as to its meaning. A potential seventh victim is high profile Catherine Martin (Brooke Smith), the daughter of Senator Ruth Martin (Diane Baker), which places greater scrutiny on the case as they search for a hopefully still alive Catherine. Who may factor into what happens is Dr. Frederick Chilton (Anthony Heald), the warden at the prison, an opportunist who sees the higher profile with Catherine, meaning a higher profile for himself if he can insert himself successfully into the proceedings.",
+    "cast": [
+      "Jodie Foster",
+      "Anthony Hopkins",
+      "Scott Glenn"
+    ],
+    "rated": "R",
+    "awards": "Won 5 Oscars. 71 wins & 50 nominations total",
+    "boxOffice": "$130,742,922",
+    "language": "English, Latin",
+    "country": "United States",
+    "imdbRating": 8.6,
+    "imdbVotes": "1,690,179",
+    "metascore": 86,
+    "externalId": "tt0102926",
+    "reviews": [
+      {
+        "source": "Internet Movie Database",
+        "ratingValue": 8.6,
+        "ratingScale": 10
+      },
+      {
+        "source": "Rotten Tomatoes",
+        "ratingValue": 95,
+        "ratingScale": 100
+      },
+      {
+        "source": "Metacritic",
+        "ratingValue": 86,
+        "ratingScale": 100
+      }
+    ],
+    "enrichedAt": "2026-01-02T17:22:55.566Z"
+  },
+  {
+    "id": "black-phone-2021",
+    "title": "The Black Phone",
+    "year": 2021,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "watched": false,
+    "runtime": "103 min",
+    "director": "Scott Derrickson",
+    "addedAt": "2023-04-13T12:00:00Z",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjFhZTcxOTktMzllMS00MzIzLWJhODEtZDU5YTFkNzRjZWQyXkEyXkFqcGc@._V1_SX300.jpg",
+    "synopsis": "Finney Shaw is a shy but clever 13-year-old boy who is abducted by a sadistic killer and trapped in a soundproof basement where screaming is of no use. When a disconnected phone on the wall begins to ring, Finney discovers that he can hear the voices of the killer's previous victims. And they are dead-set on making sure that what happened to them doesn't happen to Finney.",
+    "cast": [
+      "Mason Thames",
+      "Madeleine McGraw",
+      "Ethan Hawke"
+    ],
+    "rated": "R",
+    "awards": "10 wins & 18 nominations total",
+    "boxOffice": "$90,123,230",
+    "language": "English",
+    "country": "United States, Canada",
+    "imdbRating": 6.9,
+    "imdbVotes": "250,836",
+    "metascore": 65,
+    "externalId": "tt7144666",
+    "reviews": [
+      {
+        "source": "Internet Movie Database",
+        "ratingValue": 6.9,
+        "ratingScale": 10
+      },
+      {
+        "source": "Rotten Tomatoes",
+        "ratingValue": 81,
+        "ratingScale": 100
+      },
+      {
+        "source": "Metacritic",
+        "ratingValue": 65,
+        "ratingScale": 100
+      }
+    ],
+    "enrichedAt": "2026-01-02T17:22:55.865Z"
+  },
+  {
+    "id": "get-out-2017",
+    "title": "Get Out",
+    "year": 2017,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "watched": false,
+    "runtime": "104 min",
+    "director": "Jordan Peele",
+    "addedAt": "2023-04-14T12:00:00Z",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_SX300.jpg",
+    "synopsis": "Chris and his girlfriend Rose go upstate to visit her parents for the weekend. At first, Chris reads the family's overly accommodating behavior as nervous attempts to deal with their daughter's interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.",
+    "cast": [
+      "Daniel Kaluuya",
+      "Allison Williams",
+      "Bradley Whitford"
+    ],
+    "rated": "R",
+    "awards": "Won 1 Oscar. 154 wins & 214 nominations total",
+    "boxOffice": "$176,196,665",
+    "language": "English, Swahili",
+    "country": "Japan, United States",
+    "imdbRating": 7.8,
+    "imdbVotes": "780,027",
+    "metascore": 85,
+    "externalId": "tt5052448",
+    "reviews": [
+      {
+        "source": "Internet Movie Database",
+        "ratingValue": 7.8,
+        "ratingScale": 10
+      },
+      {
+        "source": "Rotten Tomatoes",
+        "ratingValue": 98,
+        "ratingScale": 100
+      },
+      {
+        "source": "Metacritic",
+        "ratingValue": 85,
+        "ratingScale": 100
+      }
+    ],
+    "enrichedAt": "2026-01-02T17:22:56.164Z"
+  },
+  {
+    "id": "funny-games-1997",
+    "title": "Funny Games",
+    "year": 1997,
+    "genres": [
+      "Psychological Thriller",
+      "Horror"
+    ],
+    "watched": false,
+    "runtime": "108 min",
+    "director": "Michael Haneke",
+    "addedAt": "2023-04-15T12:00:00Z",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2NkZWQyNzgtNGIzZC00YjFkLWFkZGQtNTU0OGI5ODYxODA1XkEyXkFqcGc@._V1_SX300.jpg",
+    "synopsis": "Two seemingly well-educated young men, who call each other Paul and Peter among other names, approach a family on vacation. They are, apparently, friends of the neighbors, and, at the beginning, their true intentions are not known, but soon, the family is imprisoned and tortured in its own house violently, which the viewers are forced mostly to imagine and to share a certain complicity with the criminals. It might be some kind of game with the lives of husband, wife, son, and dog, but why are they doing it?",
+    "cast": [
+      "Susanne Lothar",
+      "Ulrich Mühe",
+      "Arno Frisch"
+    ],
+    "rated": "Not Rated",
+    "awards": "5 wins & 9 nominations total",
+    "language": "German, French, Italian",
+    "country": "Austria",
+    "imdbRating": 7.5,
+    "imdbVotes": "92,393",
+    "metascore": 69,
+    "externalId": "tt0119167",
+    "reviews": [
+      {
+        "source": "Internet Movie Database",
+        "ratingValue": 7.5,
+        "ratingScale": 10
+      },
+      {
+        "source": "Rotten Tomatoes",
+        "ratingValue": 73,
+        "ratingScale": 100
+      },
+      {
+        "source": "Metacritic",
+        "ratingValue": 69,
+        "ratingScale": 100
+      }
+    ],
+    "enrichedAt": "2026-01-02T17:22:56.465Z"
+  },
+  {
+    "id": "hush-2016",
+    "title": "Hush",
+    "year": 2016,
+    "genres": [
+      "Home Invasion",
+      "Thriller"
+    ],
+    "watched": false,
+    "runtime": "82 min",
+    "director": "Mike Flanagan",
+    "addedAt": "2023-04-16T12:00:00Z",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjQ0YTU4OTQtMTU3Zi00OTdlLTkzN2EtZjlmOTZhNjIwN2VkXkEyXkFqcGc@._V1_SX300.jpg",
+    "synopsis": "A deaf and mute writer who retreated into the woods to live a solitary life must fight for her life in silence when a masked killer appears at her window.",
+    "cast": [
+      "John Gallagher Jr.",
+      "Kate Siegel",
+      "Michael Trucco"
+    ],
+    "rated": "R",
+    "awards": "2 wins & 7 nominations total",
+    "language": "English, American Sign ",
+    "country": "United States",
+    "imdbRating": 6.6,
+    "imdbVotes": "165,156",
+    "metascore": 67,
+    "externalId": "tt5022702",
+    "reviews": [
+      {
+        "source": "Internet Movie Database",
+        "ratingValue": 6.6,
+        "ratingScale": 10
+      },
+      {
+        "source": "Rotten Tomatoes",
+        "ratingValue": 91,
+        "ratingScale": 100
+      },
+      {
+        "source": "Metacritic",
+        "ratingValue": 67,
+        "ratingScale": 100
+      }
+    ],
+    "enrichedAt": "2026-01-02T17:22:56.763Z"
+  },
+  {
+    "id": "spoorloos-1988",
+    "title": "Spoorloos (The Vanishing)",
+    "year": 1988,
+    "genres": [
+      "Psychological Thriller"
+    ],
+    "watched": false,
+    "runtime": "107 min",
+    "director": "George Sluizer",
+    "addedAt": "2023-04-17T12:00:00Z",
+    "enrichedAt": null
+  },
+  {
+    "id": "hitch-hiker-1953",
+    "title": "The Hitch-Hiker",
+    "year": 1953,
+    "genres": [
+      "Noir",
+      "Thriller"
+    ],
+    "watched": false,
+    "runtime": "71 min",
+    "director": "Ida Lupino",
+    "addedAt": "2023-04-18T12:00:00Z",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDYwNzllZTAtYzUxMS00NTk0LWFkMjMtOTJkYjYzZjQ5NDZmXkEyXkFqcGc@._V1_SX300.jpg",
+    "synopsis": "Two friends on a fishing trip pick up a stranded motorist who turns out to be a psychopathic escaped convict. This sociopath has already murdered other good Samaritans in his efforts to evade authorities. He sadistically taunts and threatens the two men and perversely delights in telling them that he has them both marked for death sometime before the end of the trip. His destination is a ferryboat in Baja, California, which he hopes will help him get to the mainland. The hostages hope to stay alive long enough to escape or be rescued by Mexican authorities.",
+    "cast": [
+      "Edmond O'Brien",
+      "Frank Lovejoy",
+      "William Talman"
+    ],
+    "rated": "Approved",
+    "awards": "1 win",
+    "language": "English, Spanish",
+    "country": "United States",
+    "imdbRating": 6.9,
+    "imdbVotes": "10,824",
+    "externalId": "tt0045877",
+    "reviews": [
+      {
+        "source": "Internet Movie Database",
+        "ratingValue": 6.9,
+        "ratingScale": 10
+      },
+      {
+        "source": "Rotten Tomatoes",
+        "ratingValue": 94,
+        "ratingScale": 100
+      }
+    ],
+    "enrichedAt": "2026-01-02T17:22:57.355Z"
+  },
+  {
+    "id": "misery-1990",
+    "title": "Misery",
+    "year": 1990,
+    "genres": [
+      "Psychological Horror"
+    ],
+    "watched": false,
+    "runtime": "107 min",
+    "director": "Rob Reiner",
+    "addedAt": "2023-04-19T12:00:00Z",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzY0ODQ3MTMxN15BMl5BanBnXkFtZTgwMDkwNTg4NjE@._V1_SX300.jpg",
+    "synopsis": "Best-selling novelist Paul Sheldon is on his way home from his Colorado hideaway after completing his latest book, when he crashes his car in a freak blizzard. Paul is critically injured, but is rescued by former nurse Annie Wilkes, Paul's \"number one fan\", who takes Paul back to her remote house in the mountains (without bothering to tell anybody). Unfortunately for Paul, Annie is also a headcase. When she discovers that Paul has killed off the heroine in her favorite novels, her reaction leaves Paul shattered (literally)...",
+    "cast": [
+      "James Caan",
+      "Kathy Bates",
+      "Richard Farnsworth"
+    ],
+    "rated": "R",
+    "awards": "Won 1 Oscar. 7 wins & 10 nominations total",
+    "boxOffice": "$61,276,872",
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 7.8,
+    "imdbVotes": "260,167",
+    "metascore": 75,
+    "externalId": "tt0100157",
+    "reviews": [
+      {
+        "source": "Internet Movie Database",
+        "ratingValue": 7.8,
+        "ratingScale": 10
+      },
+      {
+        "source": "Rotten Tomatoes",
+        "ratingValue": 91,
+        "ratingScale": 100
+      },
+      {
+        "source": "Metacritic",
+        "ratingValue": 75,
+        "ratingScale": 100
+      }
+    ],
+    "enrichedAt": "2026-01-02T17:22:57.649Z"
+  },
+  {
+    "id": "room-2015",
+    "title": "Room",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "watched": false,
+    "runtime": "118 min",
+    "director": "Lenny Abrahamson",
+    "addedAt": "2023-04-20T12:00:00Z",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_SX300.jpg",
+    "synopsis": "ROOM tells the extraordinary story of Jack, a spirited 5-year-old who is looked after by his loving and devoted mother. Like any good mother, Ma dedicates herself to keeping Jack happy and safe, nurturing him with warmth and love and doing typical things like playing games and telling stories. Their life, however, is anything but typical--they are trapped--confined to a 10-by-10-foot space that Ma has euphemistically named Room. Ma has created a whole universe for Jack within Room, and she will stop at nothing to ensure that, even in this treacherous environment, Jack is able to live a complete and fulfilling life. But as Jack's curiosity about their situation grows, and Ma's resilience reaches its breaking point, they enact a risky plan to escape, ultimately bringing them face-to-face with what may turn out to be the scariest thing yet: the real world.",
+    "cast": [
+      "Brie Larson",
+      "Jacob Tremblay",
+      "Sean Bridgers"
+    ],
+    "rated": "R",
+    "awards": "Won 1 Oscar. 108 wins & 143 nominations total",
+    "boxOffice": "$14,677,654",
+    "language": "English",
+    "country": "Ireland, Canada, United Kingdom, United States",
+    "imdbRating": 8.1,
+    "imdbVotes": "473,793",
+    "metascore": 86,
+    "externalId": "tt3170832",
+    "reviews": [
+      {
+        "source": "Internet Movie Database",
+        "ratingValue": 8.1,
+        "ratingScale": 10
+      },
+      {
+        "source": "Rotten Tomatoes",
+        "ratingValue": 93,
+        "ratingScale": 100
+      },
+      {
+        "source": "Metacritic",
+        "ratingValue": 86,
+        "ratingScale": 100
+      }
+    ],
+    "enrichedAt": "2026-01-02T17:22:57.962Z"
+  },
+  {
+    "id": "collector-2009",
+    "title": "The Collector",
+    "year": 2009,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "watched": false,
+    "runtime": "90 min",
+    "director": "Marcus Dunstan",
+    "addedAt": "2023-04-21T12:00:00Z",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4NTU3OTE3OF5BMl5BanBnXkFtZTcwNTkxMjA3Mg@@._V1_SX300.jpg",
+    "synopsis": "When the Chase family moves to an isolated house in the middle of nowhere in Detroit, Arkin is hired to fix the windows and the doors. Later he meets his daughter and his wife that has a debt with dangerous sharks and needs money, but his week payment is not enough to pay her debts. Arkin plots to heist the safe of Michael Chase during the night to raise the necessary money. However, when he arrives in the house, he finds that a sadistic criminal has imprisoned the family and planted traps everywhere. Arkin seeks a way out of the deadly house to save his life.",
+    "cast": [
+      "Josh Stewart",
+      "Andrea Roth",
+      "Juan Fernández"
+    ],
+    "rated": "R",
+    "boxOffice": "$7,712,114",
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 6.3,
+    "imdbVotes": "77,190",
+    "metascore": 29,
+    "externalId": "tt0844479",
+    "reviews": [
+      {
+        "source": "Internet Movie Database",
+        "ratingValue": 6.3,
+        "ratingScale": 10
+      },
+      {
+        "source": "Rotten Tomatoes",
+        "ratingValue": 29,
+        "ratingScale": 100
+      },
+      {
+        "source": "Metacritic",
+        "ratingValue": 29,
+        "ratingScale": 100
+      }
+    ],
+    "enrichedAt": "2026-01-02T17:22:58.261Z"
+  },
+  {
+    "id": "kiss-the-girls-1997",
+    "title": "Kiss the Girls",
+    "year": 1997,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "watched": false,
+    "runtime": "115 min",
+    "director": "Gary Fleder",
+    "addedAt": "2023-04-22T12:00:00Z",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGMyYzdlYTUtNjcwNi00ZDE0LWEwNDEtN2EyMGE3OWM3Zjg0XkEyXkFqcGc@._V1_SX300.jpg",
+    "synopsis": "Alex Cross, a Washington D.C. cop and forensic psychologist learns that his niece who is going to college in North Carolina is missing. So he goes there and learns that the police think she's among the victims of someone who kidnaps young girls and holds them captive and kills them who dubs himself Cassanova after the great lover. Later Kate, one of his victims, escapes and tries to help Cross find his niece.",
+    "cast": [
+      "Morgan Freeman",
+      "Ashley Judd",
+      "Cary Elwes"
+    ],
+    "rated": "R",
+    "awards": "5 nominations total",
+    "boxOffice": "$60,527,873",
+    "language": "English, Mandarin",
+    "country": "United States",
+    "imdbRating": 6.6,
+    "imdbVotes": "98,255",
+    "metascore": 46,
+    "externalId": "tt0119468",
+    "reviews": [
+      {
+        "source": "Internet Movie Database",
+        "ratingValue": 6.6,
+        "ratingScale": 10
+      },
+      {
+        "source": "Rotten Tomatoes",
+        "ratingValue": 35,
+        "ratingScale": 100
+      },
+      {
+        "source": "Metacritic",
+        "ratingValue": 46,
+        "ratingScale": 100
+      }
+    ],
+    "enrichedAt": "2026-01-02T17:22:58.557Z"
+  },
+  {
+    "id": "along-came-a-spider-2001",
+    "title": "Along Came a Spider",
+    "year": 2001,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "watched": false,
+    "runtime": "104 min",
+    "director": "Lee Tamahori",
+    "addedAt": "2023-04-23T12:00:00Z",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDc5OWVkMmItNDIzMS00NmY2LWFiYWUtY2U4MTQwZTk5MmVlXkEyXkFqcGc@._V1_SX300.jpg",
+    "synopsis": "Detective/psychologist Alex Cross loses his partner in an out of control 'bust.' He stops working and cannot forgive himself. He is drawn back to work reluctantly when a senator's daughter is kidnapped and the kidnapper seems to want to deal with Alex personally.",
+    "cast": [
+      "Morgan Freeman",
+      "Michael Wincott",
+      "Monica Potter"
+    ],
+    "rated": "R",
+    "awards": "1 win & 1 nomination total",
+    "boxOffice": "$74,078,174",
+    "language": "English, Russian",
+    "country": "United States, Germany, Canada",
+    "imdbRating": 6.4,
+    "imdbVotes": "99,408",
+    "metascore": 42,
+    "externalId": "tt0164334",
+    "reviews": [
+      {
+        "source": "Internet Movie Database",
+        "ratingValue": 6.4,
+        "ratingScale": 10
+      },
+      {
+        "source": "Rotten Tomatoes",
+        "ratingValue": 32,
+        "ratingScale": 100
+      },
+      {
+        "source": "Metacritic",
+        "ratingValue": 42,
+        "ratingScale": 100
+      }
+    ],
+    "enrichedAt": "2026-01-02T17:22:58.852Z"
+  },
+  {
+    "id": "unsane-2018",
+    "title": "Unsane",
+    "year": 2018,
+    "genres": [
+      "Psychological Thriller"
+    ],
+    "watched": false,
+    "runtime": "98 min",
+    "director": "Steven Soderbergh",
+    "addedAt": "2023-04-24T12:00:00Z",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTYzMDYzMzA1MV5BMl5BanBnXkFtZTgwODUzODg2NDM@._V1_SX300.jpg",
+    "synopsis": "Sawyer Valentini is a troubled woman who moves away from home to escape a stalker. Sawyer finds she is still triggered by interactions with men as a result of her experiences. She makes an appointment with a counselor at Highland Creek Behavioral Center. At her appointment, she unknowingly signs a release voluntarily committing herself to a 24-hour stay. She calls the police but they do nothing when they see the signed release. After physical altercations with a patient and a staff member, Dr. Hawthorne says she is being kept for seven more days. Another patient, Nate Hoffman, gives Sawyer an introduction to the place. Highland Creek is running a scheme to milk health insurance claims for profit. They trick people into voluntarily committing themselves as long as the patients' insurance companies continue to pay; when insurance claims run out, the patient is \"cured\". One day, Sawyer sees David Strine, her stalker, working as an orderly under the assumed name George Shaw. She has an outburst and is restrained. Her outbursts result in the repeated use of restraints and sedation..",
+    "cast": [
+      "Joshua Leonard",
+      "Claire Foy",
+      "Sarah Stiles"
+    ],
+    "rated": "R",
+    "awards": "1 win & 5 nominations total",
+    "boxOffice": "$7,732,899",
+    "language": "English",
+    "country": "United States",
+    "imdbRating": 6.4,
+    "imdbVotes": "52,893",
+    "metascore": 63,
+    "externalId": "tt7153766",
+    "reviews": [
+      {
+        "source": "Internet Movie Database",
+        "ratingValue": 6.4,
+        "ratingScale": 10
+      },
+      {
+        "source": "Rotten Tomatoes",
+        "ratingValue": 80,
+        "ratingScale": 100
+      },
+      {
+        "source": "Metacritic",
+        "ratingValue": 63,
+        "ratingScale": 100
+      }
+    ],
+    "enrichedAt": "2026-01-02T17:22:59.149Z"
+  },
+  {
+    "id": "captain-phillips-2013",
+    "title": "Captain Phillips",
+    "year": 2013,
+    "genres": [
+      "Thriller",
+      "Drama"
+    ],
+    "watched": false,
+    "runtime": "134 min",
+    "director": "Paul Greengrass",
+    "addedAt": "2023-04-25T12:00:00Z",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWYyNjI3ZjEtNGE5ZS00MDgxLWIzNGEtZTgzNDVlZjZjYWU5XkEyXkFqcGc@._V1_SX300.jpg",
+    "synopsis": "Captain Phillips is a multi-layered examination of the 2009 hijacking of the U.S. container ship Maersk Alabama by a crew of Somali pirates. It is - through director Paul Greengrass's distinctive lens - simultaneously a pulse-pounding thriller, and a complex portrait of the myriad effects of globalization. The film focuses on the relationship between the Alabama's commanding officer, Captain Richard Phillips (two time Academy Award®-winner Tom Hanks), and the Somali pirate captain, Muse (Barkhad Abdi), who takes him hostage. Phillips and Muse are set on an unstoppable collision course when Muse and his crew target Phillips' unarmed ship; in the ensuing standoff, 145 miles off the Somali coast, both men will find themselves at the mercy of forces beyond their control.",
+    "cast": [
+      "Tom Hanks",
+      "Catherine Keener",
+      "Barkhad Abdi"
+    ],
+    "rated": "PG-13",
+    "awards": "Nominated for 6 Oscars. 17 wins & 155 nominations total",
+    "boxOffice": "$107,100,855",
+    "language": "English, Somali",
+    "country": "United States, United Kingdom, Malta",
+    "imdbRating": 7.8,
+    "imdbVotes": "513,813",
+    "metascore": 82,
+    "externalId": "tt1535109",
+    "reviews": [
+      {
+        "source": "Internet Movie Database",
+        "ratingValue": 7.8,
+        "ratingScale": 10
+      },
+      {
+        "source": "Rotten Tomatoes",
+        "ratingValue": 93,
+        "ratingScale": 100
+      },
+      {
+        "source": "Metacritic",
+        "ratingValue": 82,
+        "ratingScale": 100
+      }
+    ],
+    "enrichedAt": "2026-01-02T17:22:59.445Z"
+  }
+]
