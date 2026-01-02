@@ -11,7 +11,9 @@ const movieData: MovieSeed[] = (enrichedData as MovieSeed[]).length > 0
   : (seedData as MovieSeed[])
 
 const MIN_YEAR = Math.min(...movieData.map(m => m.year))
-const MAX_YEAR = Math.max(...movieData.map(m => m.year))
+// Include current year + 2 to accommodate upcoming releases
+const currentYear = new Date().getFullYear()
+const MAX_YEAR = Math.max(...movieData.map(m => m.year), currentYear + 2)
 
 const baseFilter: FilterState = {
   search: '',
