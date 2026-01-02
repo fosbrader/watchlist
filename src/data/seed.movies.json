@@ -1,5 +1,28 @@
 [
   {
+    "id": "apex-2026",
+    "title": "Apex",
+    "year": 2026,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "watched": false,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDc4YzA5NTEtYzliYy00M2NhLWE1MjItNWNkNjE4NzMyOWIyXkEyXkFqcGc@._V1_SX300.jpg",
+    "director": "Baltasar Kormákur",
+    "cast": [
+      "Charlize Theron",
+      "Taron Egerton",
+      "Eric Bana"
+    ],
+    "synopsis": "When an adrenaline junkie sets out to conquer a menacing river, she discovers that nature isn't the only thing out for blood.",
+    "externalId": "tt16431404",
+    "language": "English",
+    "country": "Canada, Australia, United States",
+    "addedAt": "2026-01-02T18:00:45.604Z",
+    "enrichedAt": "2026-01-02T18:00:45.604Z"
+  },
+  {
     "id": "avatar-fire-and-ash-2025",
     "title": "Avatar: Fire and Ash",
     "year": 2025,
