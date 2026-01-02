@@ -1,0 +1,92 @@
+name: Update Movie Data
+
+on:
+  workflow_dispatch:
+    inputs:
+      action:
+        description: 'Action to perform'
+        required: true
+        type: choice
+        options:
+          - add_movie
+          - toggle_watched
+          - update_movie
+      imdb_id:
+        description: 'IMDb ID (e.g., tt1234567) - required for add_movie'
+        required: false
+        type: string
+      movie_id:
+        description: 'Movie ID (slug) - required for toggle_watched/update_movie'
+        required: false
+        type: string
+      watched:
+        description: 'Set watched status (for toggle_watched)'
+        required: false
+        type: boolean
+        default: true
+      favorite:
+        description: 'Set favorite status'
+        required: false
+        type: boolean
+        default: false
+      my_rating:
+        description: 'Your rating (0-10)'
+        required: false
+        type: string
+      notes:
+        description: 'Personal notes'
+        required: false
+        type: string
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "movie-update"
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Update movie data
+        env:
+          OMDB_API: ${{ secrets.OMDB_API }}
+          ACTION: ${{ inputs.action }}
+          IMDB_ID: ${{ inputs.imdb_id }}
+          MOVIE_ID: ${{ inputs.movie_id }}
+          WATCHED: ${{ inputs.watched }}
+          FAVORITE: ${{ inputs.favorite }}
+          MY_RATING: ${{ inputs.my_rating }}
+          NOTES: ${{ inputs.notes }}
+        run: node scripts/update-movie.mjs
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add src/data/seed.movies.json
+          git diff --staged --quiet || git commit -m "Update movie data via workflow"
+          git push
+
+  # Trigger deploy after successful update
+  deploy:
+    needs: update
+    uses: ./.github/workflows/deploy.yml
+    secrets: inherit

@@ -8,6 +8,7 @@ import MovieGrid from './components/MovieGrid'
 import MovieList from './components/MovieList'
 import MovieDetailPage from './components/MovieDetailPage'
 import SettingsPanel from './components/SettingsPanel'
+import AdminPanel from './components/AdminPanel'
 
 function Home() {
   const filtered = useFilteredMovies()
@@ -52,6 +53,7 @@ function AppShell() {
           <Routes location={location} key={location.pathname}>
             <Route path="/" element={<Home />} />
             <Route path="/movie/:id" element={<MovieDetailPage />} />
+            <Route path="/admin" element={<AdminPanel />} />
           </Routes>
         </AnimatePresence>
       </main>

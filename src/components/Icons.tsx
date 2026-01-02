@@ -32,3 +32,6 @@ export const Home = create(<path d="M3 12l9-9 9 9M5 10v10a1 1 0 001 1h3a1 1 0 00
 export const ArrowLeft = create(<path d="M19 12H5m0 0l7 7m-7-7l7-7" />)
 export const Play = create(<path d="M5 3l14 9-14 9V3z" />)
 export const Trophy = create(<path d="M6 9H4.5a2.5 2.5 0 010-5H6m12 5h1.5a2.5 2.5 0 000-5H18M6 9h12M6 9v5a6 6 0 0012 0V9M9 21h6m-3-3v3" />)
+export const Plus = create(<path d="M12 5v14m7-7H5" />)
+export const Check = create(<path d="M5 12l5 5L20 7" />)
+export const ExternalLink = create(<path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6m4-3h6v6m-11 5L21 3" />)
