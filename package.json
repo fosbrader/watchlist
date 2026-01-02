@@ -10,14 +10,17 @@
     "lint": "echo 'Lint step not configured in offline environment'"
   },
   "dependencies": {
-    "fuse.js": "^7.0.0",
     "framer-motion": "^11.3.12",
+    "fuse.js": "^7.0.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.25.1",
     "zustand": "^5.0.1"
   },
   "devDependencies": {
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.1.2",
     "autoprefixer": "^10.4.20",
     "eslint": "^8.57.1",
     "eslint-plugin-react-hooks": "^5.1.0-rc.0",

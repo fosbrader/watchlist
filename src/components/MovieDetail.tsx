@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react'
-import { useNavigate, useParams } from 'react-router-dom'
+import { useParams } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import { CheckCircle, Heart, XMark, External } from './Icons'
 import Poster from './Poster'
@@ -11,7 +11,6 @@ import localEnrichment from '../data/local.enrichment.json'
 
 export default function MovieDetail({ onClose }: { onClose: () => void }) {
   const { id } = useParams()
-  const navigate = useNavigate()
   const { movies, toggleFavorite, toggleWatched, setMyRating, setNotes, enrichmentCache, refreshEnrichment, settings } = useLibrary()
   const movie = movies.find(m => m.id === id)
   const [notesDraft, setNotesDraft] = useState(movie?.notes || '')

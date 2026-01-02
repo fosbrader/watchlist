@@ -159,11 +159,9 @@ const selectFiltered = (movies: Movie[], filters: FilterState, enrichmentCache: 
 }
 
 export const useFilteredMovies = () => {
-  const { movies, filters, enrichmentCache } = useLibrary(state => ({
-    movies: state.movies,
-    filters: state.filters,
-    enrichmentCache: state.enrichmentCache
-  }))
+  const movies = useLibrary(state => state.movies)
+  const filters = useLibrary(state => state.filters)
+  const enrichmentCache = useLibrary(state => state.enrichmentCache)
   const filtered = selectFiltered(movies, filters, enrichmentCache)
   const sorted = [...filtered].sort((a, b) => {
     switch (filters.sort) {
